@@ -4,7 +4,7 @@
 
 * [Cardano](#cardano)
 * [Ouroboros](#Ouroboros)
-* [como funciona ouroboros](#Como-funciona-Ouroboros)
+* [como funciona ouroboros](#CÓmo-funciona-Ouroboros)
 * [Sistema de Ouroboros](#sistema-de-Ouroboros)
 * [slots y epoch de Ouroboros](slots-y-epoch-de-Ouroboros)
 * [Incentivos](Incentivos)
