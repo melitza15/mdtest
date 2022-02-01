@@ -7,7 +7,7 @@
 * [como funciona ouroboros](#CÓmo-funciona-Ouroboros)
 * [Sistema de Ouroboros](#sistema-de-Ouroboros)
 * [slots y epoch de Ouroboros](slots-y-epoch-de-Ouroboros)
-* [Incentivos](Incentivos)
+* [Incentivos](#Incentivos)
 * [Beneficios de Ouroboros](Beneficios-de-Ouroboros)
 * [Implementaciones de Ouroboros](Implementaciones-de-Ouroboros)
 * [Ouroboros Clasico](Ouroboros-Clasico)
