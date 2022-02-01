@@ -2,7 +2,7 @@
 
 ## TABLA DE CONTENIDO
 
-* [Cardano](###Cardano)
+* [Cardano](#CARDANO)
 * [Ouroboros](#Ouroboros)
 * [como funciona ouroboros](#Como-funciona-Ouroboros)
 * [Sistema de Ouroboros](#sistema-de-Ouroboros)
